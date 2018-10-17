@@ -28,8 +28,8 @@ In order to run this code you will need the following packages from python3
 - matplotlib
 - torch (pytorch)
 
-In order to install unityagents you can use pip install unityagents.
-You also need access to the banana environment. I have included the Banana environment for Windows 64 bit for convenience.
+In order to install unityagents you can use pip install unityagents. 
+You also need access to the banana environment. You can find details on how to install these in https://github.com/udacity/deep-reinforcement-learning/tree/master/p1_navigation .
 
 ## Files
 In this project you have 3 main files
