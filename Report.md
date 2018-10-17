@@ -21,6 +21,7 @@ The following hyperparameters were used in the DQN algorithm:
 - LR = 5e-4  which gives you the learning rate
 - UPDATE_EVERY = 4 which tells you how often to update the network
 
+I did not really try any other parameters. I used these as my initial values, and got the results I wanted in 2063 episodes.
 ## Results
 
 Episode 100 &nbsp;	Average Score: 0.19  
