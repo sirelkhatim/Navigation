@@ -8,7 +8,7 @@ This project will implement a deep q network on the banana environment which con
 - Vector Observation space size (per agent): 37  
 - Vector Action space size (per agent): 4  
 
-
+The environment is considered solved when the average score is above 13.
 
 You can take the following actions in this environment
 
@@ -27,6 +27,9 @@ In order to run this code you will need the following packages from python3
 - unityagents
 - matplotlib
 - torch (pytorch)
+
+In order to install unityagents you can use pip install unityagents.
+You also need access to the banana environment. I have included the environment in the file 
 
 ## Files
 In this project you have 3 main files
