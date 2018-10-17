@@ -14,12 +14,13 @@ The following hyperparameters were used in the DQN algorithm:
 - end epsilon 0.01
 - Epsilon decay rate: 0.999
 
-- BUFFER_SIZE = int(1e5) replay buffer size
+- BUFFER_SIZE = 100000 replay buffer size
 - BATCH_SIZE = 64  the minibatch size used
 - GAMMA = 0.99 discount factor for rewards
 - TAU = 1e-3 soft update for target parameters
 - LR = 5e-4  which gives you the learning rate
 - UPDATE_EVERY = 4 which tells you how often to update the network
+
 ## Results
 
 Episode 100 &nbsp;	Average Score: 0.19  
